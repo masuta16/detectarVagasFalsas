@@ -32,6 +32,8 @@ Podem também estar vendendo os dados de entrevista para reconhecimento de áudi
 
 - Se a consultoria diz ao cliente que ele é perfeito para a vaga, mas seu currículo precisa ser refeito.
 
+- Das dicas de emprego que algumas pessoas passam porque podem te induzir ao erro
+
 - Se na entrevista o selecionador perde mais tempo falando das maravilhas do futuro emprego do que entrevistando o candidato.
 
 - Se a agência diz que não cobra taxas do cliente, apenas o custo com o teste psicológico, supostamente exigido pela empresa.

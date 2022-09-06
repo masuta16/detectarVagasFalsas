@@ -20,7 +20,8 @@ Podem também estar vendendo os dados de entrevista para reconhecimento de áudi
     Se a empresa não informa o ramo de atuação e não confirma o CNPJ logo de início. 
     Lembre-se, se o recrutador precisa de você realmente, então nada será  confidencial e o recrutador vai abrir 
     o jogo para o que ele precisa já de início. 
-    Se ele pede primeiro para que você se apresente sem falar muito sobre a vaga,ele está vendendo seus dados para análise de mercado. 
+    Se ele pede primeiro para que você se apresente sem falar muito sobre a vaga,
+    ele está vendendo seus dados para análise de mercado. 
     Escute primeiro o que o recrutador precisa e se ele não tiver nada a dizer, é sondagem de mercado.
     Se for vaga em tecnologia sempre pergunte quem é o responsável técnico
     Se for consultoria internacional verifique no site do país respectivo se a empresa tem problemas envolvendo corrupção

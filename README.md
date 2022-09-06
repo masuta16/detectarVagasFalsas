@@ -44,6 +44,8 @@ Podem também estar vendendo os dados de entrevista para reconhecimento de áudi
 
 - De captação de currículos cadastrados em sites especializados.
 
+- Se a vaga pede ingles fluente
+
 - De ligações para o candidato, alegando possuir uma vaga para o seu perfil, com agendamento de entrevista.
 
 - Se, nas entrevistas, as pessoas começarem a falar que o emprego é maravilhoso e o salário é bom.

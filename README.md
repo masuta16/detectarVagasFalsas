@@ -15,11 +15,14 @@ Podem também estar vendendo os dados de entrevista para reconhecimento de áudi
 
     Se o salário é bem acima do oferecido pelo mercado, e os benefícios não condizem com o cargo em questão.
     Se a empresa não reconhece seu diploma ou especialização para o processo seletivo de uma vaga de emprego, obrigando o candidato a fazer outras e outras especializações para tentar a tão sonhada vaga, ou mesmo até se endividar num financiamento.
-    Se a empresa não informa o ramo de atuação e não confirma o CNPJ logo de início. Lembre-se, se o recrutador precisa de você realmente, então nada será confidencial e o recrutador vai abrir o jogo para o que ele precisa já de início. Se ele pede primeiro para que você se apresente, ele está vendendo seus dados para análise de mercado. Escute primeiro o que o recrutador precisa e se ele não tiver nada a dizer, é sondagem de mercado.
+    Se a empresa não informa o ramo de atuação e não confirma o CNPJ logo de início. Lembre-se, se o recrutador precisa de você realmente, então nada será  confidencial e o recrutador vai abrir o jogo para o que ele precisa já de início. Se ele pede primeiro para que você se apresente,
+    ele está vendendo seus dados para análise de mercado. Escute primeiro o que o recrutador precisa e se ele não tiver nada a dizer, é sondagem de mercado.
     Se for vaga em tecnologia sempre pergunte quem é o responsável técnico
     Se for consultoria internacional verifique no site do país respectivo se a empresa tem problemas envolvendo corrupção
     Não existe contrato PJ de início imediato em tecnologia, verifique a empresa e as clausulas com antecedência.
-    Se o recrutador toma atitudes fora do comum durante o processo seletivo como interrupções a todo momento, risada de deboche, comentários fora do normal para intimidar o candidato, perguntas tecnicas sem oferecer o respectivo treinamento, testes com complexidade fora do comum, etc.
+    Se o recrutador toma atitudes fora do comum durante o processo seletivo como interrupções a todo momento, risada de deboche, 
+    comentários fora do normal para intimidar o candidato, perguntas tecnicas sem oferecer o respectivo treinamento,
+    testes com complexidade fora do comum, etc.
 
 - Se a consultoria diz ao cliente que ele é perfeito para a vaga, mas seu currículo precisa ser refeito.
 
